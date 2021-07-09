@@ -1,2 +1,2 @@
 # BigDataTools
-Big Data Ingestion and Collection Tools: A benchmarking applied to healthcare institutions
+Big Data Ingestion and Collection Tools: A Benchmarking applied to Healthcare Institutions
